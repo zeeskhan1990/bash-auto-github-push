@@ -43,7 +43,6 @@ for d in */ ; do
         echo "Git Remote repository - "
         echo $var_repo_name
 
-        git remote rm origin
         cd ..
     else
         echo "It is NOT a git project"

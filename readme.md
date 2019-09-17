@@ -13,3 +13,5 @@
 
 -   Make sure that the ssh key for github access is already present in your
     system.
+    
+-   Run it as . ./uploader.sh (The first dot is so that the script runs in the current shell itself)
